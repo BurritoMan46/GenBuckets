@@ -49,7 +49,7 @@ class Main extends PluginBase implements Listener
 				"obsidian" => [
 					"blockId" => 49,
 					"bucketDamage" => 49,
-					"bucketPrice" => 150000,
+					"bucketPrice" => 1500000,
 					"bucketName" => TextFormat::GOLD . "Obsidian Bucket",
 				],
 				"bedrock" => [
